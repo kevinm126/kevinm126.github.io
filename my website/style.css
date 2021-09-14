@@ -1,0 +1,50 @@
+#nav li{
+    background-color:rgb(255, 238, 0);
+    list-style-type: none;
+    display:inline-block;
+    width :33%;
+    color:black;
+    align-items: left;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width:100%;
+}
+#intro{
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: cadetblue;
+    font: 200;
+}
+#p2{
+    text-align:center;
+    font-size: 25px;
+
+}
+body{
+    background-color: rgb(175, 255, 255);
+}
+#prof{
+    list-style: none;
+
+}
+table.center{
+    width: 90%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+table, th, td {
+    border: 1px solid black;
+}
+
