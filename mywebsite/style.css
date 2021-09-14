@@ -51,4 +51,6 @@ table, th, td {
     text-align: center;
     font-size: 20px;
 }
-
+#friends{
+    list-style: none;
+}
