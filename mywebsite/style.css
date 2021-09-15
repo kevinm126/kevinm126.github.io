@@ -2,12 +2,13 @@
     text-align: center;
 }
 #nav li{
-    background-color:rgb(255, 255, 255);
+
     list-style-type: none;
     display:inline-block;
-    color:black;
+    color:rgb(231, 0, 0);
     text-align: center;
     margin:10px;
+    
 }
 h1{
     text-align: center;
@@ -94,4 +95,16 @@ table, th, td {
     margin-right: auto;
     max-width:100%;
     text-align: center;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(236, 236, 236);
+    }
+  }
+a{
+background-color: rgb(255, 196, 0);
+}
+
+img:hover{
+    background-color: brown;
 }
