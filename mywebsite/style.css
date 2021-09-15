@@ -1,11 +1,13 @@
+.top{
+    text-align: center;
+}
 #nav li{
-    background-color:rgb(255, 238, 0);
+    background-color:rgb(255, 255, 255);
     list-style-type: none;
     display:inline-block;
-    width :10%;
     color:black;
     text-align: center;
-    margin-left: 20px;
+    margin:10px;
 }
 h1{
     text-align: center;
@@ -81,5 +83,5 @@ table, th, td {
    
 }
 #text4{
-    font-size: 25px;
+    font-size: 19.5px;
 }
